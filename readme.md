@@ -2,6 +2,8 @@
 
 <hr>
 
+#[Slides](http://nbviewer.jupyter.org/format/slides/github/cochoa0x1/pycon2017/blob/master/slides-dev.ipynb)
+
 # Setup
 
 ```bash
