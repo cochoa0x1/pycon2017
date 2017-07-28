@@ -1,0 +1,7 @@
+name: pycon
+dependencies:
+  - python=3.6
+  - numpy
+  - jupyter
+  - pip:
+    - pulp
