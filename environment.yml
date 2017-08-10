@@ -3,5 +3,8 @@ dependencies:
   - python=3.6
   - numpy
   - jupyter
+  - matplotlib
+  - seaborn
+  - networkx
   - pip:
     - pulp
